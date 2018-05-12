@@ -24,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Michelet
     - http://en.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43341#The-Bird
 gutenberg_issued: '2013-07-28'
 gutenberg_type: Text
 identifiers:
